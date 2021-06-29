@@ -1,0 +1,7 @@
+#img-bg{
+    background-image: url('https://musicjungle.com.br/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--517705f74fbdbf3ca671803ccd0ea3becef09bec/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2REhGMVlXeHBkSGxwTnc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--70f6c8521cb1fdfece657dd2722d2113f9d407cf/original.jpg');
+    min-height: 695px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
